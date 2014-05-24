@@ -11,7 +11,7 @@ The purpose of this project is as follows:
 (available also at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 2. Read the main text files for test and training subjects into R, meaning all files from train and test directories,
-but not from subdirectories, and column file names from the main directory (features.txt & activity_labels.txt).
+but not from subdirectories, and files with column names from the main directory (features.txt & activity_labels.txt).
 
 3. Create one big dataset (merge test and training files).
 
