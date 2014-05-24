@@ -20,7 +20,7 @@ but not from subdirectories, and files with column names from the main directory
 
 5. Apply appropriate lables for activities (from activity_labels.txt).
 
-6. Create a tidy dataset with means of the variable for each pair of subject and activity. 
+6. Create a tidy dataset with means of the variables for each pair of subject and activity. 
 
 7. Export the dataset.
 
