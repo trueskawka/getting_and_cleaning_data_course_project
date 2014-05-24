@@ -65,7 +65,7 @@ tidy2 - dcasted tidy with mean of each variable for each pair of Subject and Act
 
 4. Change necessary column names in created datasets, in order to use rbind later.
 
-5. Extract the measurements on the mean and standard deviation using grep for both test and training data sets. 
+5. Extract the measurements on the mean and standard deviation using grep for both test and training data sets - datasets created ttXX2, ttXX3, trXX2, trXX3.
 
 6. Create two datasets with all test (tt) and training (tr) data by cbind. Rbind the datasets, creating complete_set dataset.
 
