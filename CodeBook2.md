@@ -1,3 +1,5 @@
+Updated after I realized I've ommited some information.
+
 <b>Raw data used</b>
 
 main directory: features.txt (names of the variables for which the means will be calculated), activity_labels.txt (labels of the measured activities)
